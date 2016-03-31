@@ -1,0 +1,27 @@
+p
+{
+	font-family: Microsoft Sans Serif;
+}
+h1
+{
+	font-family: Microsoft Sans Serif;
+}
+h2
+{
+	font-family: Microsoft Sans Serif;
+}
+h5
+{
+	font-family: Microsoft Sans Serif;
+}
+a
+{
+	font-family: Microsoft Sans Serif;
+	text-decoration: none;
+}
+a:hover
+{
+	font-family: Microsoft Sans Serif;
+	font-size: 125%;
+	color: red;
+}
